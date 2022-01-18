@@ -1,0 +1,30 @@
+Step 1 
+Install software [VS '19 Community, Node.Js, SDKs, DB Browser SQLite]
+
+Step 2
+Clone repository or open solution from GitHub
+
+Step 3
+Install EF packages
+
+Step 4
+Create Context Class EployeesContext then add it to the services in Startup class
+
+Step 5
+Create a model EmployeeDataAccess then add logic to the employee Controller
+
+Step 6 
+Create React components 
+FetchEmployee - to display and delete data
+addEmployee to add and edit records
+
+Step 6 
+Added code to the .tsx files and call the api method using fetch and set to display and load the data
+
+Step 7 
+Add routes.tsx file to define our routes
+
+***Notes***
+The app ran perfrctly until step 5 however once I started working with the react bit, I got stuck.
+However, I assume there were some missing packages (to be installed) and I did tried to look them up as well
+but it was keep throwing an error about missing directives or routes so I had to send the file out as well.
